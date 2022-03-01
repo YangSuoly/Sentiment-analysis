@@ -1,34 +1,5 @@
-# 作业四：撰写项目README并完成开源
-
-## 评分标准
-1.格式规范（有至少3个小标题，内容完整），一个小标题5分，最高20分
-
-2.图文并茂，一张图5分，最高20分
-
-3.有可运行的代码，且代码内有详细注释，20分
-
-4.代码开源到github，15分
-
-5.代码同步到gitee，5分
-
-## 作业目的
-使用MarkDown撰写项目并且学会使用开源工具。
-
-
-
-## 参考资料：
-- [如何写好一篇高质量的精选项目？](https://aistudio.baidu.com/aistudio/projectdetail/2175889)
-
-# 作业内容
-把自己的项目描述放在对应区域中，形成一个完整流程项目，并且在最后声明自己项目的github和gitee链接
-
-
-
-
-
-
-
-
+Sentiment analysis
+---
 
 # 一、项目背景介绍
 
@@ -1800,7 +1771,8 @@ draw_process("trainning acc","green",iters,total_acc,"trainning acc")
 ## 提交链接
 aistudio链接：[文本情感分类（完整代码）](https://aistudio.baidu.com/aistudio/projectdetail/3488745?contributionType=1)
 
-github链接：
+github链接：[文本情感分析（基于飞浆)](https://github.com/YangSuoly/Sentiment-analysis)
+（建议使用第一个链接fork项目并运行）
 
-gitee链接：[文本情感分析（基于飞浆)](https://gitee.com/yangsuoly/sentiment-analysis/blob/master/%E6%96%87%E6%9C%AC%E6%83%85%E6%84%9F%E5%88%86%E7%B1%BB.ipynb)
+gitee链接：[文本情感分析（基于飞浆)](https://gitee.com/yangsuoly/sentiment-analysis)
 （建议使用第一个链接fork项目并运行）
