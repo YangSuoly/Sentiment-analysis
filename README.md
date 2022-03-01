@@ -1,4 +1,4 @@
-Sentiment analysis
+【AI达人创造营第二期】文本情感分析
 ---
 
 # 一、项目背景介绍
